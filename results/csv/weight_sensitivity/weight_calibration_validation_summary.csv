@@ -1,0 +1,4 @@
+﻿algorithm,n_rows,solved_rate,objective_mean,objective_std,objective_median,makespan_mean,makespan_std,latency_p95_mean
+calibrated-best-901227,2,1.000000,146.455896,13.263353,146.455896,146.455896,13.263353,
+calibrated-top5-average,2,1.000000,150.926059,7.257398,150.926059,150.926059,7.257398,
+default,2,1.000000,155.441197,8.048227,155.441197,155.441197,8.048227,

@@ -1,0 +1,10 @@
+﻿comparison,n_pairs,mean_diff,median_diff,effect_size_mean_over_std,wilcoxon_p_value,paired_t_p_value,note
+B-CORE_minus_B-CORE-no-bottleneck,225,-4.875232,-3.034063,-0.606018,0.000000,0.000000,negative mean_diff means reference has lower objective
+B-CORE_minus_B-CORE-no-graph,225,0.000000,0.000000,0.000000,,,negative mean_diff means reference has lower objective
+B-CORE_minus_DCGA,225,-18.842571,-4.450458,-0.652550,0.000000,0.000000,negative mean_diff means reference has lower objective
+B-CORE_minus_GA,225,-19.921511,-6.631359,-0.690256,0.000000,0.000000,negative mean_diff means reference has lower objective
+B-CORE_minus_LNS,225,-22.769948,-7.532213,-0.737850,0.000000,0.000000,negative mean_diff means reference has lower objective
+B-CORE_minus_MOEA-NSGA2,225,-18.757868,-6.239393,-0.687487,0.000000,0.000000,negative mean_diff means reference has lower objective
+B-CORE_minus_MOR,225,-25.574231,-21.348783,-1.277429,0.000000,0.000000,negative mean_diff means reference has lower objective
+B-CORE_minus_MachineRank,225,-24.426734,-15.461547,-1.031405,0.000000,0.000000,negative mean_diff means reference has lower objective
+B-CORE_minus_SA,225,-26.117023,-13.025989,-0.817495,0.000000,0.000000,negative mean_diff means reference has lower objective

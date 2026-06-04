@@ -1,0 +1,11 @@
+name: b-core-fjsp-agv-reproducibility
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - openpyxl
+  - pyyaml

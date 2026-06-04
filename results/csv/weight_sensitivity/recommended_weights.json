@@ -1,0 +1,26 @@
+{
+  "coeff_json": {
+    "agv_remaining_ops": -0.09659527868392827,
+    "agv_transport": 0.9759301949367033,
+    "agv_wait": 0.3342923852919811,
+    "machine_alt_gap": 0.1918967878878333,
+    "machine_delay": 0.29842977801911913,
+    "machine_pressure": 0.512898984713562,
+    "machine_proc": 0.0,
+    "machine_queue": 0.5236032984045588,
+    "machine_remaining_ops": -0.2575830866360669,
+    "machine_remaining_work": -0.11824247902898431,
+    "machine_transport": 0.17554373971880047
+  },
+  "component_json": {
+    "bottleneck": 1.3138428987485815,
+    "disturbance": 0.5161003555211564,
+    "job_urgency": 1.2513453867215074,
+    "safety": 1.0446927038793556,
+    "transport": 0.8150790239338124
+  },
+  "q_p_scope": "machine_pressure only; AGV q_p excluded/N/A",
+  "recommended_weight_seed": "901227",
+  "selection_rule": "best calibration mean objective; validation set not used for selection",
+  "status": "calibration_derived"
+}

@@ -1,0 +1,9 @@
+﻿event_type,model_type,n_rows,n_metric_rows,mean,std,median,min,max
+breakdown,complete_simulator_branch_bound_agv_path_tiny,10,10,1.468742,2.649915,0.000000,0.000000,7.671785
+breakdown,cpsat_transport_capacity_relaxation_empty_repositioning_relaxed,310,310,46.122305,48.749074,33.587863,2.500000,267.198511
+mixed,complete_simulator_branch_bound_agv_path_tiny,10,10,16.717041,16.800355,11.638805,0.000000,42.762153
+mixed,cpsat_transport_capacity_relaxation_empty_repositioning_relaxed,310,310,59.117073,56.174309,45.011486,2.500000,296.329703
+rush_job,complete_simulator_branch_bound_agv_path_tiny,10,10,14.434069,12.934757,9.775182,0.000000,34.549036
+rush_job,cpsat_transport_capacity_relaxation_empty_repositioning_relaxed,310,310,88.623265,61.680761,69.550244,7.142857,312.267902
+static,complete_simulator_branch_bound_agv_path_tiny,10,10,16.103200,22.012753,9.272245,0.000000,68.805228
+static,cpsat_transport_capacity_relaxation_empty_repositioning_relaxed,310,310,71.987055,52.042522,58.333333,7.142857,269.721641

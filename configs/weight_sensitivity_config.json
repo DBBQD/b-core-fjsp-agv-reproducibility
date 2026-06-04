@@ -1,0 +1,5 @@
+{
+  "rows": 28101,
+  "validation_rows": 6,
+  "metric": "validation objective"
+}
