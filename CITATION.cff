@@ -15,5 +15,5 @@ authors:
   - family-names: Zou
     given-names: Yushuang
 year: 2026
-repository-code: "https://github.com/<your-account>/b-core-fjsp-agv-reproducibility"
+repository-code: "https://github.com/DBBQD/b-core-fjsp-agv-reproducibility"
 license: MIT
